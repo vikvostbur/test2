@@ -3,5 +3,6 @@ body {
 }
 .test p {
 	font-weight: bold;
-	color: green
+	color: red;
+	font-size: 1.5rem;
 }
